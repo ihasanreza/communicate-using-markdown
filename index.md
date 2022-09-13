@@ -1,6 +1,10 @@
 # Index.md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## Zombie Factory Smart Contract
 
 ```Solidity
@@ -59,5 +63,4 @@ contract ZombieFactory is Ownable {
         _createZombie(_name, randDna);
     }
 }
-
 ```
